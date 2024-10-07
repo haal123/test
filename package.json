@@ -1,0 +1,16 @@
+{
+  "name": "instagram-login-page-master",
+  "version": "1.0.0",
+  "description": "Olá, recriei a página de login do instagram com a finalidade de práticar alguns conhecimentos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "nodemailer": "^6.9.15"
+  }
+}
